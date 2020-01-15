@@ -1,0 +1,23 @@
+{
+  "name": "valentinas-kairys",
+  "version": "1.0.0",
+  "description": "",
+  "main": "laukeliai.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valentinas98/Valentinas-Kairys.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valentinas98/Valentinas-Kairys/issues"
+  },
+  "homepage": "https://github.com/Valentinas98/Valentinas-Kairys#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.7.5",
+    "jest": "^24.9.0"
+  }
+}
